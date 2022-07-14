@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justnotiyann
-- 👀 I’m interested in Web Developemnt
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node JS Express and Git
 
 <!---
