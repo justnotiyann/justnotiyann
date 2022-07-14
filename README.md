@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justnotiyann
 - 👀 I’m interested in Front End Developemnt
-- 🌱 I’m currently learning Node JS Express and Github
+- 🌱 I’m currently learning Node JS Express and Git
 
 <!---
 justnotiyann/justnotiyann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
