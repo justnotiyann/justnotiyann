@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justnotiyann
 - 👀 I’m a Informatic Engineer Student
-- 🌱 I’m currently learning Node JS Express and Git and random things about informatics haha
+- 🌱 I’m currently learning about Web Tech
 
 <!---
 justnotiyann/justnotiyann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
